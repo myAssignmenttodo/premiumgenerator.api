@@ -1,0 +1,11 @@
+C:\TALAssignment\premiumgenerator.api\bin\Debug\netcoreapp2.0\premiumgenerator.api.deps.json
+C:\TALAssignment\premiumgenerator.api\bin\Debug\netcoreapp2.0\premiumgenerator.api.runtimeconfig.json
+C:\TALAssignment\premiumgenerator.api\bin\Debug\netcoreapp2.0\premiumgenerator.api.runtimeconfig.dev.json
+C:\TALAssignment\premiumgenerator.api\bin\Debug\netcoreapp2.0\premiumgenerator.api.dll
+C:\TALAssignment\premiumgenerator.api\bin\Debug\netcoreapp2.0\premiumgenerator.api.pdb
+C:\TALAssignment\premiumgenerator.api\obj\Debug\netcoreapp2.0\premiumgenerator.api.csprojAssemblyReference.cache
+C:\TALAssignment\premiumgenerator.api\obj\Debug\netcoreapp2.0\premiumgenerator.api.csproj.CoreCompileInputs.cache
+C:\TALAssignment\premiumgenerator.api\obj\Debug\netcoreapp2.0\premiumgenerator.api.AssemblyInfoInputs.cache
+C:\TALAssignment\premiumgenerator.api\obj\Debug\netcoreapp2.0\premiumgenerator.api.AssemblyInfo.cs
+C:\TALAssignment\premiumgenerator.api\obj\Debug\netcoreapp2.0\premiumgenerator.api.dll
+C:\TALAssignment\premiumgenerator.api\obj\Debug\netcoreapp2.0\premiumgenerator.api.pdb
